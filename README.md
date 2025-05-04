@@ -17,10 +17,6 @@ Operações disponíveis:
 
 - Divisão (/)
 
- ° Entrada de dois valores inteiros para cálculo.
-
- ° Exibição do resultado formatado.
-
  ⚠️ Observações
  
 A entrada dos valores deve seguir o formato indicado na tela, como a + b, a - b, etc.
